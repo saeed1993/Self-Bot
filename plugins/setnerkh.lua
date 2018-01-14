@@ -40,6 +40,6 @@ patterns ={
 }, 
 run = run 
 }
--- by @Tele_Sudo
--- channel: @LuaError
+-- by @s_kqz
+-- channel: @s_kqz
 
