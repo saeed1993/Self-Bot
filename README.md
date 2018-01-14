@@ -38,10 +38,3 @@ cd Self-Bot && chamod =x autobd.sh && chamod 777 autobd.sh && screen ./autobd.sh
 ```
  موفق و پیروز باشید
  ستاره یادتون نره
-
-[Majholboy](https://github.com/MajhoIboy) ([Telegram](https://telegram.me/MajhoIboy))
-----------------------
-[@ShahvarTeam](https://telegram.me/shahvarteam)
-
-# با تشکر از تیم بیوند
-[@BeyondTeam](https://telegram.me/BeyondTeam)
