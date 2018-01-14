@@ -1,7 +1,7 @@
 do
---Begin Fun.lua By @SHAHVARTEAM
---Special Thx To @To0fan
---Edit & Persian-making By @Majhoiboy ;)
+--Begin Fun.lua By @S_kqz@S_kqz@S_kqz
+--Special Thx To @S_kqz@S_kqz
+--Edit & Persian-making By @S_kqz ;)
 --------------------------------
 
 local function run_bash(str)
