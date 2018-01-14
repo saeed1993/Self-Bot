@@ -22,7 +22,7 @@ local function plugin_exists( name )
 end
 
 local function list_all_plugins(only_enabled)
-  local tmp = '\n\n@SHAHVARTEAM'
+  local tmp = '\n\n@S_KQZ'
   local text = ''
   local nsum = 0
   for k, v in pairs( plugins_names( )) do
@@ -68,7 +68,7 @@ local function list_plugins(only_enabled)
      -- text = text..v..'  '..status..'\n'
     end
   end
-  local text = text.."\n_🔃همه پلاگین ها بروز شدند_\n\n"..nact.." *➕پلاگین های فعال*\n"..nsum.." *📂پلاگین های نصب شده*\n\n@SHAHVARTEAM"
+  local text = text.."\n_🔃همه پلاگین ها بروز شدند_\n\n"..nact.." *➕پلاگین های فعال*\n"..nsum.." *📂پلاگین های نصب شده*\n\n@S_KQZ"
 return text
 end
 
@@ -239,5 +239,5 @@ return {
 end
 
  --This Is Self Bot Based On BDReborn :D
---begin groupmanager by @BeyondTeam :)
---Edit & Persian-making By @Majhoiboy ;)
+--begin groupmanager by @S_KQZ :)
+--Edit & Persian-making By @S_KQZ ;)
