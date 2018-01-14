@@ -42,10 +42,10 @@ local function show_bot_settings(msg)
         muteall = '[خاموش]'
     end
 if msg.to.type == 'channel' then
-    text = text..'_》خروج خودکار :_ *'..autoleave..'*\n_》سکوت گروه :_ *'..muteall..'*\n_》خواندن پیام :_ *'..markread..'*\n_》حداکثر اسپم :_ *['..MSG_NUM_MAX..']*\n_》زمان چک اسپم :_ *['..TIME_CHECK..']*\n_》حالت ضداسپم :_ *'..antiflood..'*\n*》*@SHAHVARTEAM*《*'
+    text = text..'_》خروج خودکار :_ *'..autoleave..'*\n_》سکوت گروه :_ *'..muteall..'*\n_》خواندن پیام :_ *'..markread..'*\n_》حداکثر اسپم :_ *['..MSG_NUM_MAX..']*\n_》زمان چک اسپم :_ *['..TIME_CHECK..']*\n_》حالت ضداسپم :_ *'..antiflood..'*\n*》*@s_kqz*《*'
 return text
 elseif msg.to.type == 'pv' or msg.to.type == 'chat' then
-    text = text..'_》خروج خودکار :_ *'..autoleave..'*\n_》خواندن پیام :_ *'..markread..'*\n_》حداکثر اسپم :_ *['..MSG_NUM_MAX..']*\n_》زمان چک اسپم :_ *['..TIME_CHECK..']*\n_》حالت ضداسپم :_ *'..antiflood..'*\n*》*@SHAHVARTEAM*《*'
+    text = text..'_》خروج خودکار :_ *'..autoleave..'*\n_》خواندن پیام :_ *'..markread..'*\n_》حداکثر اسپم :_ *['..MSG_NUM_MAX..']*\n_》زمان چک اسپم :_ *['..TIME_CHECK..']*\n_》حالت ضداسپم :_ *'..antiflood..'*\n*》*@s_kqz*《*'
 return text
    end
 end
