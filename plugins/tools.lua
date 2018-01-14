@@ -1,7 +1,7 @@
 --Tools.lua :D
  --This Is Self Bot Based On BDReborn :D
---begin groupmanager by @BeyondTeam :)
---Edit & Persian-making By @Majhoiboy ;)
+--begin groupmanager by @s_kqz :)
+--Edit & Persian-making By @s_kqz ;)
 
 local function run_bash(str)
     local cmd = io.popen(str)
@@ -237,12 +237,13 @@ matches[3] then
 		local send_file = 
 "./"..matches[2].."/"..matches[3]
 		tdcli.sendDocument(msg.chat_id_, msg.id_,0, 
-1, nil, send_file, '@SHAHVARTEAM', dl_cb, nil)
+1, nil, send_file, '@s_kqz
+			', dl_cb, nil)
 	end
 	if matches[1]:lower() == "sendplug" and matches[2] then
 	    local plug = "./plugins/"..matches[2]..".lua"
 		tdcli.sendDocument(msg.chat_id_, msg.id_,0, 
-1, nil, plug, '@SHAHVARTEAM', dl_cb, nil)
+1, nil, plug, '@s_kqz', dl_cb, nil)
     end
   end
 
