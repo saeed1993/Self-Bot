@@ -1,8 +1,8 @@
 --[[
      
   --This Is Self Bot Based On BDReborn :D
---begin groupmanager by @BeyondTeam :)
---Edit & Persian-making By @Majhoiboy ;)
+--begin groupmanager by @s_kqz :)
+--Edit & Persian-making By @s_kqz ;)
 ]]
 do
 local function self_names( name )
@@ -160,5 +160,5 @@ run = run
 
 end
 --This Is Self Bot Based On BDReborn :D
---begin groupmanager by @BeyondTeam :)
---Edit & Persian-making By @Majhoiboy ;)
+--begin groupmanager by @s_kqz :)
+--Edit & Persian-making By @s_kqz ;)
